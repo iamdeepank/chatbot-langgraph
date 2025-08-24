@@ -87,3 +87,20 @@ A minimal workflow that:
 - (Optional) Visualization extras if you want PNG rendering.
 
 > Use your preferred package manager (e.g., uv or pip) to add LangGraph and the visualization extras if needed.
+
+# Installation
+
+Install UV using pip:
+
+## Setup project
+
+```bash
+# Install UV
+pip install uv
+
+# Create a virtual environment
+uv venv
+
+#install them in editable mode (good for development
+uv pip install -e .
+```
