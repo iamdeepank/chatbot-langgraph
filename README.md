@@ -19,7 +19,7 @@
 - Easy to extend with routers, tools, or guardrails.
 
 <p align="center">
-  <img src="chatbot_workflow.png" width="150" height="300" alt="Workflow overview">
+  <img src="doc/chatbot_workflow.png" width="150" height="300" alt="Workflow overview">
 </p>
 
 ## LangGraph Mini‑Workflow
@@ -64,7 +64,7 @@ A minimal workflow that:
 ---
 
 <p align="center">
-  <img src="basic_workflow.png" width="200" alt="Workflow overview">
+  <img src="doc/basic_workflow.png" width="200" alt="Workflow overview">
 </p>
 
 ## Routing Strategies
@@ -87,10 +87,3 @@ A minimal workflow that:
 - (Optional) Visualization extras if you want PNG rendering.
 
 > Use your preferred package manager (e.g., uv or pip) to add LangGraph and the visualization extras if needed.
-
-
-## Next Steps
-- Replace placeholder nodes with real tasks (search, retrieval, summarization).
-- Add logging/telemetry for better observability.
-- Persist state or artifacts if you need auditability.
-- Introduce retries, timeouts, and guards for robustness.
