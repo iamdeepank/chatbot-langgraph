@@ -19,7 +19,7 @@
 - Easy to extend with routers, tools, or guardrails.
 
 <p align="center">
-  <img src="doc/chatbot_workflow.png" width="150" height="300" alt="Workflow overview">
+  <img src="chatbot_workflow.png" width="150" height="300" alt="Workflow overview">
 </p>
 
 ## LangGraph Mini‑Workflow
@@ -64,7 +64,7 @@ A minimal workflow that:
 ---
 
 <p align="center">
-  <img src="doc/basic_workflow.png" width="200" alt="Workflow overview">
+  <img src="basic_workflow.png" width="200" alt="Workflow overview">
 </p>
 
 ## Routing Strategies
